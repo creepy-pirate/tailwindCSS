@@ -23,9 +23,9 @@ npm install tailwindcss
   },
 ```
 
+## License
+GNU General Public License v3.0
 
-## Authors
-
-Deepak SIngh (creepy-pirate)
+©creepypirate
 
 
